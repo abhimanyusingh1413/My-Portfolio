@@ -9,8 +9,8 @@ const Home = () => {
         className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800">
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
-            <h2 className="text-4xl sm:text-7xl font-bold text-white">I'm a full Stack Developer</h2>
-            <p className="text-gray-500 py-4 max-w-md"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt laboriosam illo maiores saepe fugiat? Rem modi earum a error, eligendi vero vel magnam.</p>
+            <h2 className="text-4xl sm:text-7xl font-bold text-white">Hi, I am Abhimanyu kumar 👋</h2>
+            <p className="text-gray-500 py-4 max-w-md"> I specialize in crafting end-to-end solutions that resonate with users, turning ideas into products they genuinely love ❤️.</p>
 
             <div>
                 <Link 

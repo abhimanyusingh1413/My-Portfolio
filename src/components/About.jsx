@@ -9,13 +9,13 @@ const About = () => {
         <div className="pb-8">
             <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
         </div>
-            <p className="text-xl mt-20">I am a devoted engineering student with a solid background in web development and programming, as well as a love of technology. I have developed my abilities in database administration and creating responsive applications, and I have a CGPA of 7.64 with a computer science concentration. Using React.js and Tailwind CSS, I recently created a portfolio website that demonstrates my dedication to lifelong learning and teamwork.
+            <p className="text-6xl mt-20">LET ME INTRODUCE MYSELF
             </p>
 
             <br />
 
             <p className="text-xl">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit repudiandae inventore porro! Iusto maxime ipsam quas beatae earum culpa non alias quos voluptate adipisci. Quaerat, obcaecati dignissimos qui voluptate minima voluptatum odio harum quia culpa mollitia quos exercitationem rerum natus voluptatem. Incidunt, in accusamus? At, expedita! Nobis beatae enim labore.
+            "I am an engineering student with a solid foundation in web development and programming, fueled by a passion for technology. Skilled in C++, C, Python, JavaScript, React, Next.js, HTML, CSS, and SQL, I excel in database management and creating responsive applications. Recently, I built a portfolio website using React.js and Tailwind CSS, reflecting my dedication to lifelong learning, teamwork, and crafting impactful solutions. 🚀"
             </p>
       </div>
     </div>
