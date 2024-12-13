@@ -2,7 +2,6 @@ import React from "react";
 import heroImage from "../assets/heroImage.png";
 import { MdKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
-import { Typed } from "react-typed";
 
 const Home = () => {
   return (
@@ -11,18 +10,8 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
             <h2 className="text-4xl sm:text-7xl font-bold text-white">Hi, I am Abhimanyu kumar 👋</h2>
-            {/* <p className="text-1.5xl text-gray-500 py-4 max-w-md"> I specialize in crafting 
-              <span style="color:yellow">end-to-end</span> solutions that resonate with users, turning ideas into products they <span class="text-green-500">genuinely love ❤️</span>.</p> */}
-               {/* Typed.js element */}
-          <div className="text-gray-500 py-4 max-w-md">
-            <Typed
-              strings={["I specialize in web development.", "I craft end-to-end solutions.", "Turning ideas into products. ❤️"]}
-              typeSpeed={60} // Speed of typing
-              backSpeed={40} // Speed of deleting
-              backDelay={1000} // Delay before starting to delete
-              loop // Keeps looping through the strings
-            />
-          </div>
+            <p className="text-gray-500 py-4 max-w-md"> I specialize in crafting end-to-end solutions that resonate with users, turning ideas into products they genuinely love ❤️.</p>
+
             <div>
                 <Link 
                 to="portfolio" 
